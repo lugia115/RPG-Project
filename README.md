@@ -18,7 +18,7 @@ There's a map **randomly generated** where the player moves throgh, room by room
 
 Every enemy room and chest room drops an **equipable item**, linked to a specific character or to the entire party, giving them **stat boosts** and **special effects**.
 
-![image](https://github.com/lugia115/RPG-Project/assets/120431918/c3b6f8a0-870e-4535-975a-eab4e9c97e72)
+![image](https://github.com/lugia115/RPG-Project/assets/120431918/611a4069-43e7-49a0-a730-5399ed318661)
 
 The player must progress through the game looting better equipment as the enemies get tougher. The game ends when the player defeats the final boss (wins), or lose all their characters (loses).
 
