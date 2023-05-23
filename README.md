@@ -9,7 +9,7 @@ In the player's turn they can change the active character, in other words, they 
 ![image](https://github.com/lugia115/RPG-Project/assets/120431918/279aa395-c4c5-48c7-9aa6-39618ee565d8)
 
 
-There's a map where the player moves throgh room by room. There they can encounter **enemies, chests, rest sites and maybe some NPCs** with extra dialogue.
+There's a map **randomly generated** where the player moves throgh, room by room. There they can encounter **enemies, chests, rest sites and maybe some NPCs** with extra dialogue.
 
 ![image](https://github.com/lugia115/RPG-Project/assets/120431918/9b7b8002-99c3-4cdd-80b3-fd24f6a6b57b)
 
